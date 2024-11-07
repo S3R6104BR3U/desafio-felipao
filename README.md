@@ -31,5 +31,8 @@ Ao final deve se exibir uma mensagem:
 
 ## Vídeo - Execução do código javaScript que desenvolvi em resposta ao desafio do Felipão.
 
-https://github.com/user-attachments/assets/276708ea-f973-416f-8aaf-488cc54bd2c9
+https://github.com/user-attachments/assets/87a9f281-3841-481f-8f75-2e3ffdf8f593
+
+
+
 
